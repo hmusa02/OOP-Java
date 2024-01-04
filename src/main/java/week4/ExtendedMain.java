@@ -1,3 +1,5 @@
+package week4;
+
 import week4.people.*;
 
 import java.util.ArrayList;

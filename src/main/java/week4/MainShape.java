@@ -1,3 +1,5 @@
+package week4;
+
 import week4.enums.FillType;
 import week4.shape.Circle;
 import week4.shape.Rectangle;
