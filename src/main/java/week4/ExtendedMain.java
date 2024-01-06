@@ -18,7 +18,7 @@ public class ExtendedMain {
         people.add(new Teacher("Pekka Mikkola", "Korsontie Street 1 03100 Vantaa", 1200));
         people.add(new Student("Olli", "Ida Albergintie Street 1 00400 Helsinki", "S12345"));
 
-        people.add(new ExtendedPerson("John Doe", "123 Main St", 30, "USA"));
+        people.add(new ExtendedPerson("John Doe", "123 week4.Main St", 30, "USA"));
         people.add(new ExtendedStudent("Alice", "456 Oak Ave", 20, "Canada", "S67890"));
 
         ExtendedStudent extendedStudent = (ExtendedStudent) people.get(3);

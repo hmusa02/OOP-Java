@@ -1,3 +1,5 @@
+package week4;
+
 import week4.people.Person;
 import week4.people.Student;
 import week4.people.Teacher;
